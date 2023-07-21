@@ -14,5 +14,6 @@ Add an explanation of the algorithm and how it works. Make sure to include detai
 
 1. When you first get ahold of this project the first thing you must do is to open a terminal. Make sure that the directory is in the jetson-inference. Make sure you do cd jetson-inference to get into the directory. Next step is you have to run this code. "Running test: python python/car_recognition/car_recognition.py python/car_recognition/12.jpg" (The program will override the 12.jpg)
 2. Nothing is necessary to instal just make sure that the data set has the folders with the names from the labels.txt
+3. After the program has run you will find an output.jpg at the bottom and will automatically refresh as the program has run. (This will show the cars and their title)
 
 [View a video explanation here](video link) (program isn't finished there are issues)
