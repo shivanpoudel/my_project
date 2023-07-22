@@ -2,7 +2,7 @@
 
  This program uses imageNet to indentify a vast specturm of cars ranging from Audi to Toyota Innova's > 
 
-![add image descrition here](direct image link here) (program isn't finished there are issues)
+!https://drive.google.com/file/d/1ddCWjkpa-nAocowshBTDuTyS6CrBdary/view?usp=sharing (google drive contains an image)
 
 ## The Algorithm
 
